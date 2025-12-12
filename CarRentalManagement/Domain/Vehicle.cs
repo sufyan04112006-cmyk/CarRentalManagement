@@ -11,5 +11,8 @@
         public int ModelId { get; set; }
 
         public int ColourId { get; set; }
+
+
+
     }
 }
